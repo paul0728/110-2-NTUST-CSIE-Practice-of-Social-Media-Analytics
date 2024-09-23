@@ -1,0 +1,30 @@
+今天討論主題:
+1.報告人
+2.呈現什麼內容
+
+目前狀況:
+dataset:
+8個
+
+feature:
+(10 +svd(24)+GEMSEC(16)+GEMSECWithRegularization(16)+DeepWalk(16)+DeepWalkWithRegularization(16))=98(dimension)
+(svd 去掉,多維度做PCA降成1維)
+
+
+
+
+
+方法:
+RandomForest & GBDT(看有沒有要用其他方法)
+先測feature 之後在看
+
+3.GEMSEC 等四種embedding 該如何處理(dimension,連接方法(canacatenate or sum))
+
+4.分配每個人負責跑得部份
+
+
+
+node 做pca
+
+
+

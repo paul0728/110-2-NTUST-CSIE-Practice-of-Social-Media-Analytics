@@ -1,0 +1,17 @@
+不同處:
+missing edge取法:
+我當成digraph(已修正)
+保雲未考慮相同edge之情況(用list 存)
+
+
+論文embedding 單獨code
+單維度feature結果跑
+
+
+
+
+寫檔案
+建立資料夾
+存前處理資料
+差腳本以及分配
+
