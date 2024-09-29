@@ -39,7 +39,7 @@ do
   python main.py --dataset $val -a -v -r -g 
 done
 
-
+# Convert the CSV (will be executed in results.sh).
 python csv_transpose.py
 
 
