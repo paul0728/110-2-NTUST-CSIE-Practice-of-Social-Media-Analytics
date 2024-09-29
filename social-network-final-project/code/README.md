@@ -1,4 +1,4 @@
-# Useage:
+# Usage:
 ```
 bash results.sh 
 # Generates all combination results (5 images for each setting) + 4 CSV files (Train/Test RF/GBDT F1scores).)
