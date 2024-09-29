@@ -9,3 +9,6 @@ This project explores link prediction, which involves predicting the existence o
   bash results.sh
   ```
   
+# [Report](Facebook%20Link%20Prediction%20Report.docx)
+# [Slides](social%20network%20project.pptx)
+# [Experiment data sheet](social-network-final-project-results-analysis.xlsx)
